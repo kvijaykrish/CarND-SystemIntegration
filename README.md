@@ -1,4 +1,4 @@
-# Captone Project - Team BetterLateThanNever
+# Captone Project - System Integration
 
 ## Team Members
 | Name                          | Contact e-mail         | Role       |
